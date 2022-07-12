@@ -1,0 +1,87 @@
+body
+{
+    color: rgb(70, 10, 10);
+    font-size: large;
+    background-color: rgb(206, 221, 220);
+}
+
+.header
+{
+    background-color: powderblue;
+    padding: 5%;
+    padding-left: 15%;
+    font-size: large;
+    color: rgb(179, 42, 32);
+    size: 40%;
+    margin: 0em !important; 
+}
+
+/*
+.cloud
+{
+    float: left;
+    width: 25%;
+    margin-right: 30px;
+    margin-top: 10%;
+}
+*/
+
+.body2
+{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 15rem;
+    z-index: 2;
+}
+
+.edu-para
+{
+    font-size: smaller;
+}
+.head2
+{
+    color: purple;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.project-title
+{
+    font-size: larger;
+}
+
+.project-desc
+{
+    font-size: medium;
+}
+
+.right
+{
+    float: right;
+}
+.horiz
+{
+    width: 10%;
+    border-style: dotted none none;
+    color: rgb(14, 192, 133);
+    border-width: 10px;
+}
+
+a:visited
+{
+    color: powderblue;
+}
+a:hover
+{
+    color: green;
+}
+a:active
+{
+    color: hotpink;
+}
+
+.subhead
+{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
